@@ -199,6 +199,26 @@ section h2
             border-radius: 4px;
     background-color: #fdfcf6;
 }
+#skills img
+{
+    font-size: 45px;
+    font-size: 4.5rem;
+
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    width: 90px;
+    height: 90px;
+
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    color: #fff;
+    -webkit-border-radius: 50%;
+       -moz-border-radius: 50%;
+            border-radius: 50%;
+}
+
 #skills i
 {
     font-size: 45px;
@@ -220,6 +240,7 @@ section h2
             border-radius: 50%;
     background-color: #FFCF70;
 }
+
 #skills h3
 {
     font-size: 24px;
